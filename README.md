@@ -1,5 +1,5 @@
-# Carousel-3D
-An element to display a set of images, or other elements
+# Backgrounds
+Some crazy backgrounds
 ---
 ![alt text](https://github.com/JavierBalonga/Backgrounds/blob/master/preview.png)
 ---
